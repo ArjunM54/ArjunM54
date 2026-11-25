@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+👋 Hey, I'm Arjun M!<br><br>🚀 Aspiring AI Engineer | AI/ML Developer | Exploring Agentic AI<br><br>I'm a Computer Science Engineering student passionate about building intelligent applications and solving real-world problems through Artificial Intelligence and technology.<br><br>I enjoy experimenting with emerging technologies, developing AI-powered applications, and transforming innovative ideas into practical solutions.<br><br>🧑‍💻 About Me<br><br> 🎓 B.E. Computer Science Engineering Student (2024–2028)<br> 🤖 Passionate about Artificial Intelligence, Machine Learning & Generative AI.<br> 🧠 Exploring AI Agents, Agentic Engineering & Automation.<br> 💻 Building AI-powered applications and intelligent systems.<br> 🌱 Currently improving my skills in Python, DSA, SQL and AI development.<br> 🎯 Goal: Become an AI Engineer and build impactful AI products.<br> ⚡ Believe in learning by building and innovating through code.<br><br>🔥 What I'm Working On<br><br> 🤖 **Gima AI** – AI-powered chatbot with document, image and voice understanding.<br> 🧠 **AI/ML Projects** – Exploring machine learning applications and predictive analytics.<br> 🌍 **Smart Land Governance** – Developing a GIS-based digital land management platform.<br> ⚡ **AI Agents** – Experimenting with intelligent agents, automation and AI-powered workflows.<br><br>💡 Areas of Interest<br><br> Artificial Intelligence & Machine Learning<br> Generative AI & Large Language Models<br> Agentic AI & AI Automation<br> Data Science & Predictive Analytics<br> Full-Stack Development<br> Problem Solving & Data Structures<br><br>🌐 My Philosophy<br><br>"Don't just use technology. Build something that makes a difference."<br><br>I'm always curious, always experimenting, and always building. Let's connect and create something innovative! 🚀
 
-<!--
-**ArjunM54/ArjunM54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_arjxn_95) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arjun-m-470940354) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@ArjunMn6nu) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Arjun M) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arjunabishek85@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=ArjunM54&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=ArjunM54&theme=github_dark&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=ArjunM54&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=ArjunM54&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
